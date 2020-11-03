@@ -4,8 +4,7 @@
 #include "player.h"
 
 int main() {
-	srand(time(NULL));
-
+	
 	// print empty list
 	printf("--------------\n");
 	struct player *begin = NULL;
